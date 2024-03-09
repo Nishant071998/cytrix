@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cytrix/static/css/main.b18303db.css",
+    "main.js": "/cytrix/static/js/main.1bb07a45.js",
+    "static/js/787.634fe37d.chunk.js": "/cytrix/static/js/787.634fe37d.chunk.js",
+    "index.html": "/cytrix/index.html",
+    "main.b18303db.css.map": "/cytrix/static/css/main.b18303db.css.map",
+    "main.1bb07a45.js.map": "/cytrix/static/js/main.1bb07a45.js.map",
+    "787.634fe37d.chunk.js.map": "/cytrix/static/js/787.634fe37d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18303db.css",
+    "static/js/main.1bb07a45.js"
+  ]
+}
