@@ -4,6 +4,6 @@ export const Home =(props)=>{
     console.log(props.userInfo)
     return(
     <div>
-       <label>WELCOME TO HOME PAGE {props.userInfo.userName}</label> 
+       <label>WELCOME TO HOME  {props.userInfo.userName}</label> 
     </div>)
 }
